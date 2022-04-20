@@ -6,18 +6,17 @@ It is used as a method for predictive modeling in machine learning, in which an 
 The equation to denote the linear regression model:
 y=a+b*x
 
-Machine Learning models
+Machine Learning models#
 A machine learning model is an expression of an algorithm that analyses data, 
 finds patterns or makes predictions. Fueled by data, machine learning models are 
 the mathematical engines of artificial intelligence.
 
-Building an ML model
-When we are building a machine learning model we usually take standard steps.
-
-problem formulation
-data tidying
-preprocessing
-train-test-split
-model building
-model validation and fine-tuning
-prediction
+Building an ML model#
+When we build a machine learning model, we usually take standard steps.
+...problem formulation
+...data tidying
+...preprocessing
+...train-test-split
+...model building
+...model validation and fine-tuning
+...prediction
