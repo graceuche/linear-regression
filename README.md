@@ -7,7 +7,7 @@ It is used as a method for predictive modeling in machine learning, in which an 
 The equation to denote the linear regression model:
 ...y=a+b*x
 
-##Machine Learning models
+## Machine Learning models
 
 A machine learning model is an expression of an algorithm that analyses data, 
 finds patterns or makes predictions. Fueled by data, machine learning models are 
